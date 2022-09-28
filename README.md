@@ -10,10 +10,10 @@
 A tabela <b>histórico</b> é a responsável por armazenar as informações de alunos, disciplina, turma e professor. Ela é a relação de todos, e é responsável por armazenar os dados e os atributos que vamos guardar no banco. 
 Nela possuímos quatro chaves estrangeiras e elas são:
 <ul>
- <li>fk_alunos_mat: chave estrangeira que faz referência a tabela; <b>aluno</b></li>
- <li>fk_turma_cod_turma: chave estrangeira que faz referência a tabela; <b>turma</b></li>
- <li>fk_disciplina_cod_disciplina: chave estrangeira que faz referência a tabela; <b>disciplina</b></li>
- <li>fk_professor_cod_professor: chave estrangeira que faz referência a tabela. <b>professor</b></li>
+ <li>fk_alunos_mat: chave estrangeira que faz referência a tabela <b>aluno</b>;</li>
+ <li>fk_turma_cod_turma: chave estrangeira que faz referência a tabela <b>turma</b>;</li>
+ <li>fk_disciplina_cod_disciplina: chave estrangeira que faz referência a tabela <b>disciplina</b>;</li>
+ <li>fk_professor_cod_professor: chave estrangeira que faz referência a tabela <b>professor</b>.</li>
 </ul>
 Já os atributos/colunas são:
 <ul>
