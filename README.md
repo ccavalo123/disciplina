@@ -1,5 +1,4 @@
 # Modelagem do banco de dados 
-Repositório para trabalho de banco de dados
 
 <div align = "center">
 <img src= "maneleclara.logico1.png">
