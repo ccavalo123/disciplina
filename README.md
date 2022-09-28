@@ -1,10 +1,10 @@
 # Modelagem do banco de dados 
-
+<h2><b>Prova banco de dados</b></h2>
 <div align = "center">
 <img src= "maneleclara.logico1.png">
 </div>
 
-# Descrição das tabelas do modelo
+# Descrição das tabelas e explicação das mesmas
 
 <h2>Tabela <i>histórico</i></h2>
 A tabela <b>histórico</b> é a responsável por armazenar as informações de alunos, disciplina, turma e professor. Ela é a relação de todos, e é responsável por armazenar os dados e os atributos que vamos guardar no banco. 
