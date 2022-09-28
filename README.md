@@ -1,5 +1,5 @@
 # Modelagem do banco de dados 
-<h2><b>Prova banco de dados</b></h2>
+<b>Prova banco de dados</b>
 <div align = "center">
 <img src= "maneleclara.logico1.png">
 </div>
