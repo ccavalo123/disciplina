@@ -6,7 +6,7 @@
 
 # Descrição das tabelas e explicação das mesmas
 
-<h2>Tabela <i>histórico</i></h2>
+<h2>Tabela histórico</h2>
 A tabela <b>histórico</b> é a responsável por armazenar as informações de alunos, disciplina, turma e professor. Ela é a relação de todos, e é responsável por armazenar os dados e os atributos que vamos guardar no banco. 
 Nela possuímos quatro chaves estrangeiras e elas são:
 <ul>
@@ -26,7 +26,7 @@ Já os atributos/colunas são:
 <li>nota: nota dos alunos.</li>
 </ul>
 
-<h2>Tabela <b>alunos</b></h2>
+<h2>Tabela alunos</h2>
 
 A tabela <b>aluno</b> será na nossa base de dados a responsável por manter os dados dos alunos do sistema.
 Nela possuímos uma chave primária e três atributos/colunas:
@@ -37,16 +37,16 @@ Nela possuímos uma chave primária e três atributos/colunas:
 <li>cidade: cidade onde reside o aluno.</li>
 </ul>
 
-<h2>Tabela <b>disciplina</b></h2>
+<h2>Tabela disciplina</h2>
 
 Tabela <b>disciplina</b>, teremos aqui as informações sobre as disciplinas que estão sendo lecionadas. Nela teremos uma chave primária e dois atributos/colunas:
 <ul>
-<li>cod_disc: chave primeiro que faz referência ao código de registro da disciplina;</li>
+<li>cod_disc: chave primária que faz referência ao código de registro da disciplina;</li>
 <li>nome: nome da disciplina;</li>
 <li>carga_hr: carga horária da disciplina.</li>
 </ul>
 
-<h2>Tabela <b>turma</b></h2>
+<h2>Tabela turma</h2>
 
 Tabela <b>turma</b>, a tabela turma irá conter as informações sobre a turma. Nela temos uma chave primária e quatro atributos/colunas:
 <ul>
@@ -57,7 +57,7 @@ Tabela <b>turma</b>, a tabela turma irá conter as informações sobre a turma. 
 <li>horário: seu respectivo horário entrada, intervalo e saída.</li>
 </ul>
 
-<h2>Tabela <b>professor</b></h2>
+<h2>Tabela professor</h2>
 
 A tabela do <b>professor</b> é a tabela que conterá os dados do professor. Nela temos uma chave primária e três atributos/colunas:
 <ul>
